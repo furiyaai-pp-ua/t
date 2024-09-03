@@ -1,2 +1,2 @@
-# t
+# Telegram
 https://t.me/furiyaai
